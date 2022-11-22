@@ -1,7 +1,7 @@
-# aws-region-services-compare
-# I used windows wsl ubuntu with bash shell to do this. AWS-CLI was installed. I ran this against the aws root account.
+aws-region-services-compare
+I used windows wsl ubuntu with bash shell to do this. AWS-CLI was installed. I ran this against the aws root account.
 
-# do the usual to access the aws account profile using okta cli.
+Do the usual to access the aws account profile using okta cli.
 okta_aws {enter the usual when prompted}
 okta_aws lz-root {set aws profile}
 
