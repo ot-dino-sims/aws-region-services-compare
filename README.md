@@ -3,7 +3,7 @@ I used windows wsl ubuntu with bash shell to do this. AWS-CLI was installed. I r
 
 Do the usual to access the aws account profile using okta cli.
 okta_aws {enter the usual when prompted}
-okta_aws lz-root {set aws profile}
+okta_aws XXX {set aws profile to our okta root account}
 
 I used this AWS link provided by AWS support that shows AWS Regional Services Lists: [http://servicesaws.amazon.com/](http://servicesaws.amazon.com/)
 
